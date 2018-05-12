@@ -1,0 +1,28 @@
+_repo: Springfield-in-the-Spanish-American-War_46361
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46361-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ward, Walter W.
+    gutenberg_agent_id: '43741'
+    url: http://www.gutenberg.org/2009/agents/43741
+description: ''
+gutenberg_issued: '2014-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46361'
+  lccn: 09017105
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'Springfield (Mass.) -- History -- Spanish-American War, 1898'
+- !lcsh 'United States. Army. Massachusetts Infantry Regiment, 2nd (1898)'
+- !lcsh 'Spanish-American War, 1898 -- Regimental histories -- United States'
+- !lcsh 'United States. Army. Massachusetts Naval Brigade. Company H (1898)'
+title: Springfield in the Spanish American War
+url: http://www.gutenberg.org/ebooks/46361
