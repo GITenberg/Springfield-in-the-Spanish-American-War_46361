@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43741'
     url: http://www.gutenberg.org/2009/agents/43741
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46361#Springfield-in-the-Spanish-American-War
 gutenberg_issued: '2014-07-22'
 gutenberg_type: Text
 identifiers:
